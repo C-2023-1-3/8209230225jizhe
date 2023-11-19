@@ -12,7 +12,7 @@ int main() {
            
 			if (b % i ==0) 
 			{
-				cout << "×î´ó¹«Ô¼Êı"<<i << endl;
+				cout << "æœ€å¤§å…¬å› æ•°ä¸º"<<i << endl;
 				break;
 		    }	
 		}
@@ -20,7 +20,7 @@ int main() {
 	for (int j = a;;j++) {
 		if (j % a == 0) {
 			if (j % b == 0) {
-				cout << "×îĞ¡¹«±¶Êı" << j << endl;
+				cout << "æœ€å°å…¬å€æ•°ä¸º" << j << endl;
 				break;
 			}
 		}
