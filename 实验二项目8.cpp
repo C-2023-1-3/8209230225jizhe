@@ -16,7 +16,7 @@ using namespace std;
 
 
 		 }
-		 cout << "Æ½·½¸ùÎª" << setprecision(11) <<j <<endl;
+		 cout << "å…¶å¹³æ–¹æ ¹ä¸º" << setprecision(11) <<j <<endl;
 	 }
 	 else {
 		 cout << "error" << endl;
